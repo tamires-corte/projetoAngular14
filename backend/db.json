@@ -1,0 +1,16 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio tata",
+      "autoria": "Tamires 123",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Lula 2023",
+      "autoria": "Tamires",
+      "modelo": "modelo3"
+    }
+  ]
+}
